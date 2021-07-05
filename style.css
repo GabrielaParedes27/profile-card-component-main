@@ -94,8 +94,3 @@ h4 {
       color: hsl(228, 45%, 44%);
     }
 
-@media (min-width: 1200px) {
-    .card{
-        margin: auto 50px;
-    }
-}
